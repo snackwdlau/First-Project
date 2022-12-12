@@ -1,11 +1,11 @@
 # TCC Data Analytics - Project 1
 
 Group 4 Integrants:
-Britt Waggoner
-Nou Yang
-Trevor Bridges
-Veronica Ostapowich
-Zechariah Lau
+Britt Waggoner,
+Nou Yang,
+Trevor Bridges,
+Veronica Ostapowich,
+Zechariah Lau.
 
 On this project we found and analyzed a data set regarding healthcare and well-being.
 Our main topic is: How does a person achieve excellent work-life balance?
